@@ -1,21 +1,41 @@
-![Ananya Singh — Ideas into interfaces. Code into useful tools.](./banner.svg)
+<img src="./banner.svg" width="100%" alt="Ananya Singh — web apps, mobile tools and AI experiments.">
 
-I build across web, mobile, and applied AI. My projects include a chronic disease monitoring prototype and a Flutter application with companion backend repositories.
+<br>
 
-[Explore my repositories](https://github.com/drunkmonkkk?tab=repositories)
+I'm Ananya, aka **drunkmonkkk**. My current projects explore chronic disease monitoring and scrap identification. This is where I keep the code, experiments, and problem-solving practice.
 
-### Selected work
+**[THE PROJECTS ↓](#the-projects)** &nbsp; / &nbsp; **[THE TOOLBOX ↓](#the-toolbox)** &nbsp; / &nbsp; **[ALL REPOSITORIES ↗](https://github.com/drunkmonkkk?tab=repositories)**
 
-| Project | What you'll find |
-| :--- | :--- |
-| [**CarePulse AI ↗**](https://github.com/drunkmonkkk/carepulse-AI) | A chronic disease monitoring prototype for the IBM SkillsBuild AICTE 2026 Hackathon. React, TypeScript, FastAPI, and IBM watsonx.ai. |
-| [**Kabadiwala Connect ↗**](https://github.com/drunkmonkkk/kabadiwala_connect) | A Flutter application, with its companion [backend repository](https://github.com/drunkmonkkk/kabadiwala_backend_v2). |
-| [**Problem-solving practice ↗**](https://github.com/drunkmonkkk/neetcode-submissions) | My NeetCode submission repository. |
+## The projects
 
-### Technologies in my projects
+<a href="https://github.com/drunkmonkkk/carepulse-AI"><img src="./assets/carepulse.svg" width="100%" alt="01. CarePulse AI — chronic disease monitoring prototype using React, FastAPI and IBM watsonx.ai. Open repository."></a>
 
-React · TypeScript · Python · FastAPI · Flutter · IBM watsonx.ai
+**[Explore CarePulse AI ↗](https://github.com/drunkmonkkk/carepulse-AI)** · [Frontend](https://github.com/drunkmonkkk/carepulse-AI/tree/main/Frontend) · [Backend](https://github.com/drunkmonkkk/carepulse-AI/tree/main/backend)
+
+Patient records, vitals trends, alerts, and risk reports in a hackathon prototype. Built for IBM SkillsBuild AICTE 2026.
+
+<br>
+
+<a href="https://github.com/drunkmonkkk/kabadiwala_connect"><img src="./assets/kabadiwala.svg" width="100%" alt="02. Kabadiwala Connect — a Flutter prototype for identifying scrap, comparing estimated prices and recording handovers. Open repository."></a>
+
+**[Explore the app ↗](https://github.com/drunkmonkkk/kabadiwala_connect)** · [Local inference API](https://github.com/drunkmonkkk/kabadiwala_backend) · [Cloud inference API](https://github.com/drunkmonkkk/kabadiwala_backend_v2)
+
+A scrap collector's workflow: capture an image, identify the material, compare sample recycler listings, and record a handover. Recycler listings and prices are prototype data.
+
+<br>
+
+<a href="https://github.com/drunkmonkkk/neetcode-submissions"><img src="./assets/neetcode.svg" width="100%" alt="03. The practice notebook — Python algorithm solutions and multiple attempts. Open repository."></a>
+
+**[Browse the notebook ↗](https://github.com/drunkmonkkk/neetcode-submissions)**
+
+Python submissions covering arrays, hash maps, stacks, and two pointers. Multiple attempts stay in the repository.
+
+## The toolbox
+
+<img src="./assets/toolbox.svg" width="100%" alt="Web: React and TypeScript. Mobile: Flutter and Dart. Backend: Python and FastAPI. AI: IBM watsonx.ai.">
+
+Tools used across these projects.
 
 ---
 
-*Explore a project, read the code, or open an issue to start a conversation.*
+**ANANYA SINGH** / [@drunkmonkkk](https://github.com/drunkmonkkk) &nbsp; · &nbsp; Found something interesting? Open an issue in the relevant project.
