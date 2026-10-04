@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ananya Singh — Ideas into interfaces. Code into useful tools.</title>
+  <desc id="desc">Dark navy profile banner with cream typography, mint accents, and abstract connected panels.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#253347" stroke-width="1"/></pattern>
+    <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#192d3a"/><stop offset="1" stop-color="#101b2a"/></linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="22" fill="#0d1523"/>
+  <rect x="750" width="450" height="360" fill="url(#grid)" opacity=".6"/>
+  <rect x="56" y="57" width="30" height="4" rx="2" fill="#8ff0cc"/>
+  <text x="99" y="65" font-family="Arial, sans-serif" font-size="13" letter-spacing="3" fill="#8ff0cc">ANANYA / DRUNKMONKKK</text>
+  <text x="52" y="147" font-family="Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2" fill="#f3efe6">Ananya Singh.</text>
+  <text x="56" y="204" font-family="Arial, sans-serif" font-size="25" fill="#c7d2df">Ideas into interfaces.</text>
+  <text x="56" y="240" font-family="Arial, sans-serif" font-size="25" fill="#c7d2df">Code into useful tools.</text>
+  <text x="56" y="308" font-family="Arial, sans-serif" font-size="13" letter-spacing="2" fill="#8ff0cc">WEB  /  MOBILE  /  APPLIED AI</text>
+  <path d="M860 110H1048V252H926" fill="none" stroke="#8ff0cc" stroke-width="2" opacity=".5"/>
+  <rect x="812" y="64" width="225" height="143" rx="14" fill="url(#panel)" stroke="#435b65"/>
+  <circle cx="834" cy="85" r="4" fill="#8ff0cc"/><circle cx="849" cy="85" r="4" fill="#647986"/><circle cx="864" cy="85" r="4" fill="#647986"/>
+  <path d="M843 119H914M843 139H979M843 159H952M843 179H902" stroke="#8ff0cc" stroke-width="6" stroke-linecap="round" opacity=".7"/>
+  <rect x="911" y="165" width="220" height="130" rx="14" fill="#172635" stroke="#435b65"/>
+  <path d="m943 232 27-24-27-24m45 66h40" fill="none" stroke="#f3efe6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1048" cy="252" r="7" fill="#8ff0cc"/>
+</svg>
