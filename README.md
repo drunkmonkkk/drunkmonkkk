@@ -1,4 +1,4 @@
-<img src="./banner.svg" width="100%" alt="Ananya Singh — web apps, mobile tools and AI experiments.">
+<img src="./banner.svg?v=gremlin-1" width="100%" alt="Ananya Singh — web apps, mobile tools and AI experiments.">
 
 <br>
 
