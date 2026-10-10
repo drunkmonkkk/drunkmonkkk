@@ -1,4 +1,4 @@
-<img src="./banner.svg?v=retro-desktop-1" width="100%" alt="Ananya Singh — a retro desktop of games, apps and experiments.">
+<img src="./assets/retro-desktop.svg" width="100%" alt="Ananya Singh — a retro desktop of games, apps and experiments.">
 
 <br>
 
